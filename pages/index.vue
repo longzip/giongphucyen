@@ -16,7 +16,7 @@
       >
         <div
           class="absolute top-0 w-full h-full bg-center bg-cover"
-          style="background-image: url('/images/giong-phuc-yen')"
+          style="background-image: url('/images/giong-phuc-yen.jpg')"
         >
           <span
             id="blackOverlay"
@@ -289,7 +289,7 @@
               >
                 <img
                   alt="Trung tâm tiêm chủng vắc xin gióng phúc yên"
-                  src="/images/tiem-chung-vac-xin-giong"
+                  src="/images/tiem-chung-vac-xin-giong.jpg"
                   class="w-full align-middle rounded-t-lg"
                 />
                 <blockquote class="relative p-8 mb-4">
@@ -353,9 +353,9 @@
           <div class="items-center flex flex-wrap">
             <div class="w-full md:w-4/12 ml-auto mr-auto px-4">
               <img
-                alt="..."
+                alt="Trung tâm tiêm chủng gióng phúc yên"
                 class="max-w-full rounded-lg shadow-lg"
-                src="https://images.unsplash.com/photo-1555212697-194d092e3b8f?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=634&amp;q=80"
+                src="/images/tiem-chung-giong-phuc-yen.jpg"
               />
             </div>
             <div class="w-full md:w-5/12 ml-auto mr-auto px-4">
@@ -637,9 +637,9 @@
                 "
               >
                 <div class="flex-auto p-5 lg:p-10">
-                  <h4 class="text-2xl font-semibold">Want to work with us?</h4>
+                  <h4 class="text-2xl font-semibold">Chúng tôi có thể giúp gì cho bạn?</h4>
                   <p class="leading-relaxed mt-1 mb-4 text-gray-600">
-                    Complete this form and we will get back to you in 24 hours.
+                    Hãy để lại tin nhắn cho chúng tôi theo mẫu dưới đây.
                   </p>
                   <div class="relative w-full mb-3 mt-8">
                     <label
@@ -651,7 +651,7 @@
                         mb-2
                       "
                       for="full-name"
-                      >Full Name</label
+                      >Họ tên</label
                     ><input
                       type="text"
                       class="
@@ -711,7 +711,7 @@
                         mb-2
                       "
                       for="message"
-                      >Message</label
+                      >Tin nhắn</label
                     ><textarea
                       rows="4"
                       cols="80"
@@ -753,7 +753,7 @@
                       type="button"
                       style="transition: all 0.15s ease 0s"
                     >
-                      Send Message
+                      Gửi ngay
                     </button>
                   </div>
                 </div>
