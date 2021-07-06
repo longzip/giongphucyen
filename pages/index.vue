@@ -509,7 +509,7 @@
               <div class="px-6">
                 <img
                   alt="Nguyễn Thị Thúy"
-                  src="~/assets/img/nguyen-thi-thuy.jpg"
+                  src="/images/nguyen-thi-thuy.jpg"
                   class="shadow-lg rounded-full max-w-full mx-auto"
                   style="max-width: 120px"
                 />
@@ -527,7 +527,7 @@
               <div class="px-6">
                 <img
                   alt="Đỗ Như Chinh"
-                  src="~/assets/img/do-nhu-chinh.jpg"
+                  src="/images/do-nhu-chinh.jpg"
                   class="shadow-lg rounded-full max-w-full mx-auto"
                   style="max-width: 120px"
                 />
@@ -543,7 +543,7 @@
               <div class="px-6">
                 <img
                   alt="Đào Hồng Chinh"
-                  src="~/assets/img/dao-hong-chinh.jpg"
+                  src="/images/dao-hong-chinh.jpg"
                   class="shadow-lg rounded-full max-w-full mx-auto"
                   style="max-width: 120px"
                 />
@@ -559,7 +559,7 @@
               <div class="px-6">
                 <img
                   alt="Phan Ngọc Lan"
-                  src="~/assets/img/phan-ngoc-lan.jpg"
+                  src="/images/phan-ngoc-lan.jpg"
                   class="shadow-lg rounded-full max-w-full mx-auto"
                   style="max-width: 120px"
                 />
